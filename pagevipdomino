@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>VIP Domino | Luxury Modern</title>
+
+<meta name="description" content="VIP Domino Luxury Landing Page">
+
+<!-- Google Font -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- Font Awesome -->
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+<!-- Swiper -->
+<link rel="stylesheet"
+href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
+<!-- CSS -->
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/navbar.css">
+<link rel="stylesheet" href="css/hero.css">
+<link rel="stylesheet" href="css/responsive.css">
+
+</head>
+
+<body>
+
+<!--======================
+PRELOADER
+=======================-->
+
+<div class="loader">
+
+<div class="loader-ring"></div>
+
+<div class="loader-text">
+
+<i class="fa-solid fa-crown"></i>
+
+VIP DOMINO
+
+</div>
+
+</div>
+
+<!--======================
+CURSOR
+=======================-->
+
+<div class="cursor"></div>
+
+<div class="cursor2"></div>
+
+<!--======================
+HEADER
+=======================-->
+
+<header id="header">
+
+<div class="container nav-container">
+
+<a href="#" class="logo">
+
+<i class="fa-solid fa-crown"></i>
+
+<span>VIP DOMINO</span>
+
+</a>
+
+<nav>
+
+<ul class="nav-menu">
+
+<li><a href="#" class="active">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#feature">Feature</a></li>
+<li><a href="#gallery">Gallery</a></li>
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<div class="nav-right">
+
+<button class="dark-toggle">
+
+<i class="fa-solid fa-moon"></i>
+
+</button>
+
+<a href="#" class="btn-gold">
+
+Explore Now
+
+</a>
+
+<div class="menu-toggle">
+
+<span></span>
+<span></span>
+<span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</header>
+
+<!--======================
+HERO
+=======================-->
+
+<section class="hero">
+
+<div class="hero-overlay"></div>
+
+<div class="floating-circle one"></div>
+<div class="floating-circle two"></div>
+<div class="floating-circle three"></div>
+
+<div class="swiper heroSwiper">
+
+<div class="swiper-wrapper">
+
+<!-- Slide 1 -->
+
+<div class="swiper-slide">
+
+<div class="hero-content">
+
+<div class="hero-badge">
+
+Luxury Modern Experience
+
+</div>
+
+<h1>
+
+WELCOME TO
+
+<span>VIP DOMINO</span>
+
+</h1>
+
+<p>
+
+Landing Page modern dengan
+tema hitam, emas, neon glow,
+dan background galaxy.
+
+</p>
+
+<div class="hero-buttons">
+
+<a href="#" class="btn-gold">
+
+Explore Now
+
+</a>
+
+<a href="#" class="btn-outline">
+
+Learn More
+
+</a>
+
+</div>
+
+<div class="hero-stats">
+
+<div class="stat-box">
+
+<h2>100K+</h2>
+
+<span>Visitors</span>
+
+</div>
+
+<div class="stat-box">
+
+<h2>24/7</h2>
+
+<span>Online</span>
+
+</div>
+
+<div class="stat-box">
+
+<h2>99%</h2>
+
+<span>Premium</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<!-- ======================
+SLIDE 2
+====================== -->
+
+<div class="swiper-slide">
+
+    <div class="hero-content">
+
+        <div class="hero-badge">
+
+            Premium Galaxy Theme
+
+        </div>
+
+        <h1>
+
+            BLACK <span>& GOLD</span>
+
+        </h1>
+
+        <p>
+
+            Nikmati desain elegan dengan
+            perpaduan warna hitam dan emas,
+            animasi modern, glassmorphism,
+            dan efek neon premium.
+
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="#" class="btn-gold">
+
+                Explore Now
+
+            </a>
+
+            <a href="#" class="btn-outline">
+
+                View Gallery
+
+            </a>
+
+        </div>
+
+        <div class="hero-stats">
+
+            <div class="stat-box">
+
+                <h2>500+</h2>
+
+                <span>Projects</span>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h2>99.9%</h2>
+
+                <span>Secure</span>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h2>24H</h2>
+
+                <span>Support</span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- ======================
+SLIDE 3
+====================== -->
+
+<div class="swiper-slide">
+
+    <div class="hero-content">
+
+        <div class="hero-badge">
+
+            VIP Experience
+
+        </div>
+
+        <h1>
+
+            LUXURY <span>DOMINO</span>
+
+        </h1>
+
+        <p>
+
+            Landing page profesional
+            dengan performa tinggi,
+            tampilan eksklusif,
+            dan pengalaman pengguna modern.
+
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="#" class="btn-gold">
+
+                Join Now
+
+            </a>
+
+            <a href="#" class="btn-outline">
+
+                Contact
+
+            </a>
+
+        </div>
+
+        <div class="hero-stats">
+
+            <div class="stat-box">
+
+                <h2>1M+</h2>
+
+                <span>Views</span>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h2>150+</h2>
+
+                <span>Countries</span>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h2>★★★★★</h2>
+
+                <span>Rating</span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</div>
+
+<!-- Swiper Navigation -->
+
+<div class="swiper-button-next"></div>
+
+<div class="swiper-button-prev"></div>
+
+<div class="swiper-pagination"></div>
+
+</div>
+
+<!-- Scroll Indicator -->
+
+<div class="scroll-indicator">
+
+    <span></span>
+
+</div>
+
+</section>
+<!-- ===================================== -->
+<!-- COUNTER -->
+<!-- ===================================== -->
+
+<section class="counter">
+
+    <div class="container">
+
+        <div class="counter-grid">
+
+            <div class="counter-item">
+
+                <h2 class="count" data-count="25000">0</h2>
+
+                <p>Happy Members</p>
+
+            </div>
+
+            <div class="counter-item">
+
+                <h2 class="count" data-count="120">0</h2>
+
+                <p>Premium Services</p>
+
+            </div>
+
+            <div class="counter-item">
+
+                <h2 class="count" data-count="99">0</h2>
+
+                <p>Customer Satisfaction</p>
+
+            </div>
+
+            <div class="counter-item">
+
+                <h2 class="count" data-count="24">0</h2>
+
+                <p>Support Hours</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ===================================== -->
+<!-- ABOUT -->
+<!-- ===================================== -->
+
+<section id="about" class="about section">
+
+<div class="container">
+
+<div class="section-title">
+
+<span>ABOUT US</span>
+
+<h2>
+
+Luxury Experience With Modern Design
+
+</h2>
+
+<p>
+
+VIP Domino menghadirkan desain modern
+bernuansa hitam dan emas dengan tampilan
+yang elegan, ringan, dan responsif.
+
+</p>
+
+</div>
+
+<div class="about-grid">
+
+<div class="about-image">
+
+<img src="images/about.jpg"
+alt="VIP Domino">
+
+</div>
+
+<div class="about-content">
+
+<h3>
+
+Premium Landing Page
+
+</h3>
+
+<p>
+
+Website ini dibuat menggunakan
+HTML5, CSS3 dan JavaScript
+dengan efek Glassmorphism,
+Neon Gold serta animasi modern.
+
+</p>
+
+<div class="about-list">
+
+<div class="list-item">
+
+<i class="fa-solid fa-check"></i>
+
+<span>Luxury Black Theme</span>
+
+</div>
+
+<div class="list-item">
+
+<i class="fa-solid fa-check"></i>
+
+<span>Responsive Mobile</span>
+
+</div>
+
+<div class="list-item">
+
+<i class="fa-solid fa-check"></i>
+
+<span>Neon Gold Animation</span>
+
+</div>
+
+<div class="list-item">
+
+<i class="fa-solid fa-check"></i>
+
+<span>Fast Loading</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ===================================== -->
+<!-- FEATURES -->
+<!-- ===================================== -->
+
+<section id="feature"
+class="features-preview">
+
+<div class="container">
+
+<div class="section-title">
+
+<span>WHY CHOOSE US</span>
+
+<h2>
+
+Premium Features
+
+</h2>
+
+</div>
+
+<div class="feature-grid">
+
+<div class="feature-card">
+
+<i class="fa-solid fa-crown"></i>
+
+<h3>
+
+Luxury Design
+
+</h3>
+
+<p>
+
+Perpaduan warna hitam
+dan emas premium.
+
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<i class="fa-solid fa-bolt"></i>
+
+<h3>
+
+Fast Performance
+
+</h3>
+
+<p>
+
+Website ringan,
+cepat dan modern.
+
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<i class="fa-solid fa-shield-halved"></i>
+
+<h3>
+
+Secure
+
+</h3>
+
+<p>
+
+Struktur kode bersih
+dan mudah dikembangkan.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- ===================================== -->
+<!-- GALLERY -->
+<!-- ===================================== -->
+
+<section id="gallery" class="gallery section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <span>OUR GALLERY</span>
+
+            <h2>Luxury Collection</h2>
+
+            <p>
+                Beberapa tampilan premium dari website
+                VIP Domino dengan nuansa hitam, emas,
+                dan galaxy modern.
+            </p>
+
+        </div>
+
+        <div class="gallery-grid">
+
+            <div class="gallery-item">
+                <img src="images/gallery1.jpg" alt="Gallery 1">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/gallery2.jpg" alt="Gallery 2">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/gallery3.jpg" alt="Gallery 3">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/gallery4.jpg" alt="Gallery 4">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/gallery5.jpg" alt="Gallery 5">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/gallery6.jpg" alt="Gallery 6">
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ===================================== -->
+<!-- TESTIMONIAL -->
+<!-- ===================================== -->
+
+<section class="testimonial section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <span>TESTIMONIAL</span>
+
+            <h2>Apa Kata Pengguna</h2>
+
+        </div>
+
+        <div class="testimonial-grid">
+
+            <div class="testimonial-card">
+
+                <i class="fa-solid fa-quote-left"></i>
+
+                <p>
+                    Desainnya sangat elegan,
+                    modern, dan responsif.
+                    Sangat cocok untuk landing page premium.
+                </p>
+
+                <h4>Andi</h4>
+
+            </div>
+
+            <div class="testimonial-card">
+
+                <i class="fa-solid fa-quote-left"></i>
+
+                <p>
+                    Efek neon emas dan background
+                    galaxy membuat website terlihat mewah.
+                </p>
+
+                <h4>Budi</h4>
+
+            </div>
+
+            <div class="testimonial-card">
+
+                <i class="fa-solid fa-quote-left"></i>
+
+                <p>
+                    Ringan, cepat, dan mudah
+                    dikembangkan untuk berbagai kebutuhan.
+                </p>
+
+                <h4>Sinta</h4>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ===================================== -->
+<!-- CONTACT -->
+<!-- ===================================== -->
+
+<section id="contact" class="contact section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <span>CONTACT</span>
+
+            <h2>Hubungi Kami</h2>
+
+        </div>
+
+        <form class="contact-form">
+
+            <input
+                type="text"
+                placeholder="Nama Lengkap"
+                required>
+
+            <input
+                type="email"
+                placeholder="Email"
+                required>
+
+            <input
+                type="text"
+                placeholder="Subjek">
+
+            <textarea
+                rows="6"
+                placeholder="Pesan"></textarea>
+
+            <button
+                class="btn-gold"
+                type="submit">
+
+                Kirim Pesan
+
+            </button>
+
+        </form>
+
+    </div>
+
+</section>
+
+<!-- ===================================== -->
+<!-- FOOTER -->
+<!-- ===================================== -->
+
+<footer>
+
+<div class="container footer-container">
+
+<div class="footer-logo">
+
+<i class="fa-solid fa-crown"></i>
+
+<span>VIP DOMINO</span>
+
+</div>
+
+<div class="footer-menu">
+
+<a href="#">Home</a>
+<a href="#about">About</a>
+<a href="#feature">Feature</a>
+<a href="#gallery">Gallery</a>
+<a href="#contact">Contact</a>
+
+</div>
+
+<div class="footer-social">
+
+<a href="#"><i class="fab fa-facebook-f"></i></a>
+
+<a href="#"><i class="fab fa-instagram"></i></a>
+
+<a href="#"><i class="fab fa-telegram"></i></a>
+
+<a href="#"><i class="fab fa-whatsapp"></i></a>
+
+</div>
+
+<p>
+
+© 2026 VIP Domino.
+All Rights Reserved.
+
+</p>
+
+</div>
+
+</footer>
+
+<!-- Back To Top -->
+
+<a href="#" class="back-top">
+
+<i class="fa-solid fa-arrow-up"></i>
+
+</a>
+
+<!-- JS -->
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script src="js/script.js"></script>
+<script src="js/slider.js"></script>
+<script src="js/darkmode.js"></script>
+
+</body>
+
+</html>
